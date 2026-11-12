@@ -1,12 +1,12 @@
 {
  "page": "internships",
- "count": 1372,
- "new": 106,
- "updated": "2026-11-11",
+ "count": 1382,
+ "new": 108,
+ "updated": "2026-11-12",
  "by": {
   "region": {
    "morocco": 84,
-   "europe": 1065,
+   "europe": 1075,
    "north_america": 166,
    "asia_oceania": 38,
    "middle_east_africa": 8,
@@ -14,19 +14,19 @@
    "other": 7
   },
   "topic": {
-   "ai": 544,
+   "ai": 549,
    "ml": 278,
-   "data": 446,
+   "data": 449,
    "cloud": 147,
-   "devops": 195,
+   "devops": 196,
    "devsecops": 25,
    "cybersecurity": 128,
-   "other": 425
+   "other": 429
   },
   "kind": {
    "pfe": 143,
    "research": 87,
-   "internship": 1142
+   "internship": 1152
   }
  }
 }
